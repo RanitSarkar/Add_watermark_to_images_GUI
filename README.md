@@ -1,2 +1,2 @@
 # Add watermark to the images
-![My Image](../images/base-image.png)
+![images](base-image.png)
